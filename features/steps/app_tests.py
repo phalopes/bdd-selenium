@@ -5,8 +5,8 @@ import time
 from selenium.webdriver.common.by import By
 
 
-USUARIO = "pedrolopes"
-SENHA = "p5760154"
+USUARIO = ""
+SENHA = ""
 
 
 @given('we access login screen')
